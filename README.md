@@ -3,6 +3,7 @@ ini adalah kompetisi data science yang diadakan oleh Universitas Padjajaran. Dal
 - Abdul Rosyid
 - Muhamad Rizqi Abroori
 - Kevin Surya Prayoga Wibowo
+---
 berhasil memperoleh juara 3🥉 dengan skor rmse yaitu 1.719 pada private skor dan berhasil memperoleh ranking 1🥇 pada leaderboardnya
 
 ---
