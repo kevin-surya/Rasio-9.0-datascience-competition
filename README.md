@@ -1,13 +1,13 @@
 # Rasio-9.0-datascience-competition
-kevin-surya: buatkan readme dari file ini tentang penjelasan apa yang dilakukan pada syntax ini secara runtut dalam bahasa indonesia
-
-GitHub Copilot: Read [](file:///d%3A/Perlombaan%20Duniawi/rasio/notebook1.ipynb)
-
-Berikut adalah README yang menjelaskan secara runtut apa yang dilakukan pada notebook ini dalam bahasa Indonesia:
+ini adalah kompetisi data science yang diadakan oleh Universitas Padjajaran. Dalam lomba ini saya dan tim saya yaitu
+- Abdul Rosyid
+- Muhamad Rizqi Abroori
+- Kevin Surya Prayoga Wibowo
+berhasil memperoleh juara 3🥉 dengan skor rmse yaitu 1.719 pada private skor dan berhasil memperoleh ranking 1🥇 pada leaderboardnya
 
 ---
 
-# README - Penjelasan Alur Notebook Prediksi Emisi CO₂
+# Penjelasan Alur Notebook Prediksi Emisi CO₂
 
 Notebook ini berisi tahapan lengkap untuk melakukan prediksi emisi CO₂ harian menggunakan data time series, dengan pendekatan hybrid Prophet dan CatBoost. Berikut penjelasan setiap langkahnya:
 
