@@ -1,9 +1,3 @@
-kevin-surya: buatkan readme dari file ini tentang penjelasan apa yang dilakukan pada syntax ini secara runtut dalam bahasa indonesia
-
-GitHub Copilot: Read [](file:///d%3A/Perlombaan%20Duniawi/rasio/notebook1.ipynb)
-
-Berikut adalah README yang menjelaskan secara runtut apa yang dilakukan pada notebook ini dalam bahasa Indonesia:
-
 ---
 
 # README - Penjelasan Alur Notebook Prediksi Emisi CO₂
@@ -70,3 +64,4 @@ Notebook ini berisi tahapan lengkap untuk melakukan prediksi emisi CO₂ harian 
 ---
 
 Notebook ini dapat digunakan sebagai referensi untuk pipeline data science time series forecasting, khususnya prediksi emisi CO₂ dengan pendekatan hybrid dan penanganan data yang komprehensif.
+
